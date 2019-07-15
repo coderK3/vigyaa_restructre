@@ -1,11 +1,11 @@
-#About the folder
+# About the folder
 
 There is two folder amit and kunal, it contain all dscussion doc which done ny us
 
-#amit 
+# Amit 
 In amit-folder amit will push all the file relate to discussion.
 
-#kunal
+# Kunal
 In kunal-folder kunal will push all the file relate to discussion.
 
 
